@@ -120,7 +120,7 @@
 <table>
   <tr>
     <td align="center" width="220px">
-      <img src="https://github.com/CHATDOO.png" width="96" height="96" style="border-radius: 50%;" alt="Salem">
+      <a href="https://discord.com/users/1014965971628347543" target="_blank"><img src="https://raw.githubusercontent.com/RXCORP-core/.github/main/assets/salem.png" width="96" height="96" style="border-radius: 50%;" alt="Salem"></a>
       <br>
       <strong>Salem</strong>
       <br>
@@ -129,7 +129,7 @@
       <code>[RX] DEV</code>
     </td>
     <td align="center" width="220px">
-      <img src="https://github.com/afchoca.png" width="96" height="96" style="border-radius: 50%;" alt="Bat" onerror="this.src='https://github.com/identicons/bat.png'">
+      <a href="https://discord.com/users/856235847044038696" target="_blank"><img src="https://raw.githubusercontent.com/RXCORP-core/.github/main/assets/bat.png" width="96" height="96" style="border-radius: 50%;" alt="Bat"></a>
       <br>
       <strong>Bat</strong>
       <br>
